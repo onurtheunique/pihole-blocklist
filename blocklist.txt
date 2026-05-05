@@ -1,8 +1,5 @@
-meritbet*
 tpvision.com
 philips.com
-tracking.*
-analytics.*
 t2m.io
 dby39.40140265.xyz
-*.*.xyz
+
