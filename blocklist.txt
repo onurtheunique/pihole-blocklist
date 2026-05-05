@@ -4,4 +4,5 @@ philips.com
 tracking.*
 analytics.*
 t2m.io
-*.xyz
+dby39.40140265.xyz
+*.*.xyz
